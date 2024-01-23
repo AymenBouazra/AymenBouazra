@@ -20,9 +20,9 @@
 
   
 
-  [![Rayen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AymenBouazra&theme=react-dark)](https://github.com/rayen-brigui/github-readme-activity-graph)
+  [![Aymen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AymenBouazra&theme=react-dark)](https://github.com/rayen-brigui/github-readme-activity-graph)
 
-  [![Rayen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AymenBouazra)](https://wakatime.com/@aymenbouazra)
+  [![Aymen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aymenbouazra)](https://wakatime.com/@aymenbouazra)
   
   ![](https://github-profile-trophy.vercel.app/?username=AymenBouazra&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
