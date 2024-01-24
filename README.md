@@ -20,7 +20,7 @@
 
   
 
-  [![Aymen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AymenBouazra&theme=react-dark)](https://github.com/rayen-brigui/github-readme-activity-graph)
+  [![Aymen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AymenBouazra&theme=react-dark)](https://github.com/AymenBouazra/github-readme-activity-graph)
 
   [![Aymen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aymenbouazra)](https://wakatime.com/@aymenbouazra)
   
